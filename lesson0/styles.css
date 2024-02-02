@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+}
+/* centering with margin */
+/* display block moves horzontally */
+/* must have a width so theres space */
+
+/* set the left and the right side to auto */
+img {
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

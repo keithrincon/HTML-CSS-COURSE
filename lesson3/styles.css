@@ -1,0 +1,30 @@
+.card {
+  color: #222;
+  background-color: lightgray;
+  /* outside */
+  width: 300px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+
+  /* inside */
+  padding-top: 100px;
+  padding-right: 100px;
+
+  /* border in between */
+
+  border: 4px solid green;
+  border-radius: 20px;
+}
+.follow {
+  border: 1.5px #cfd9de solid;
+  border-radius: 20px;
+  font-weight: bold;
+  color: #0f1419;
+  background-color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 110px;
+}
